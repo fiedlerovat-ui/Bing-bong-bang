@@ -1,0 +1,23 @@
+body{background-color:rgb(255, 230, 194);
+color: rgb(126, 67, 25);
+font-family:sans-serif;
+font-size: 18px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;
+}
+nav{padding-left: 50px;
+width: 200px;
+line-height: 2;
+}
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;}
+
+a:link{color: #e2741a; text-decoration: none;}
+a:visited{color: rgb(230, 172, 48); text-decoration: none;}
+a:active{color: chocolate; text-decoration: underline;}
+a:hover{color: rgb(103, 175, 75); background-color: rgb(248, 230, 205); text-decoration: underline}
